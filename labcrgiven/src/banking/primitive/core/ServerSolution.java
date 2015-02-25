@@ -10,7 +10,7 @@ import banking.primitive.core.Account.STATE;
 
 public class ServerSolution implements AccountServer {
 
-	static String fileName = "accounts.ser";
+	private static String fileName = "accounts.ser";
 
 	private Map<String,Account> accountMap = null;
 
