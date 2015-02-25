@@ -12,7 +12,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 @SuppressWarnings("serial")
-class MainFrame extends JFrame {
+public class MainFrame extends JFrame {
 	private AccountServer	myServer;
 	private Properties	props;
 	private JLabel	typeLabel;
