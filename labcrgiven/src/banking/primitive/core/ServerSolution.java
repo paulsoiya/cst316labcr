@@ -12,7 +12,7 @@ public class ServerSolution implements AccountServer {
 
 	static String fileName = "accounts.ser";
 
-	Map<String,Account> accountMap = null;
+	private Map<String,Account> accountMap = null;
 
 	public ServerSolution() {
 		accountMap = new HashMap<String,Account>();
