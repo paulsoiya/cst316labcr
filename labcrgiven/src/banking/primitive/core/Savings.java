@@ -1,5 +1,13 @@
 package banking.primitive.core;
 
+/*
+File: Savings.java	
+Author:	kevinagary
+Date:	25 February 2015
+
+Description: Child class of Account that sets up Saving account types.
+*/
+
 public class Savings extends Account {
 	private static final long serialVersionUID = 111L;
 	private int numWithdraws = 0;

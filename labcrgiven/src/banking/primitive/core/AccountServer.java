@@ -3,6 +3,14 @@ package banking.primitive.core;
 import java.io.IOException;
 import java.util.List;
 
+/*
+File: AccountServer.java	
+Author:	kevinagary
+Date:	25 February 2015
+
+Description: Creates the accounts to save them 
+*/
+
 public interface AccountServer {
 
 	/** 

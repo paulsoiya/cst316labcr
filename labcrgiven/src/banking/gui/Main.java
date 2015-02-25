@@ -2,11 +2,14 @@ package banking.gui;
 
 import javax.swing.JFrame;
 
-/**
- * main method for running the program.
- * @author kevinagary
- *
- */
+/*
+File: Main.java	
+Author:	kevinagary
+Date:	25 February 2015
+
+Description: Main method for running the program.
+*/
+
 final class Main {
 	/**
 	 * Private constructor to address STYLE issue.

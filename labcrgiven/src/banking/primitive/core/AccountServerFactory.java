@@ -1,5 +1,12 @@
 package banking.primitive.core;
 
+/*
+File: AccountServerFactory.java	
+Author:	kevinagary
+Date:	25 February 2015
+
+Description: Set up factory for creating accounts.
+*/
 
 public class AccountServerFactory {
 

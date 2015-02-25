@@ -1,10 +1,18 @@
 package banking.primitive.core;
 
+/*
+File: Checking.java	
+Author:	kevinagary
+Date:	25 February 2015
+
+Description: Uses Account to create child class, Checking.
+*/
+
 public class Checking extends Account {
 
 	private static final long serialVersionUID = 11L;
 	private int numWithdraws = 0;
-	
+		
 	private Checking(String name) {
 		super(name);
 	}

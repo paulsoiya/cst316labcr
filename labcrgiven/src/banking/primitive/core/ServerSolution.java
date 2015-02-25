@@ -8,6 +8,15 @@ import java.io.*;
 
 import banking.primitive.core.Account.STATE;
 
+/*
+File: ServerSolution.java	
+Author:	kevinagary
+Date:	25 February 2015
+
+Description: Generates Accounts, AccountFactory, saves Accounts, checks if Account exists,
+and closes Accounts.
+*/
+
 public class ServerSolution implements AccountServer {
 
 	private static String fileName = "accounts.ser";

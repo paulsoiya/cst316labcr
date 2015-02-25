@@ -11,6 +11,14 @@ import java.awt.Container;
 import java.awt.event.*;
 import javax.swing.*;
 
+/*
+File: MainFrame.java	
+Author:	kevinagary
+Date:	25 February 2015
+
+Description: MainFrame method for setting up the GUI.
+*/
+
 @SuppressWarnings("serial")
 class MainFrame extends JFrame {
 	AccountServer	myServer;
